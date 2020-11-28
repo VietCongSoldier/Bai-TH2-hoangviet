@@ -1,0 +1,13 @@
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.exe
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.deps.json
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.runtimeconfig.json
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.runtimeconfig.dev.json
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.dll
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\bin\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.pdb
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.csprojAssemblyReference.cache
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.AssemblyInfoInputs.cache
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.AssemblyInfo.cs
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.csproj.CoreCompileInputs.cache
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.dll
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.pdb
+C:\Users\Teiv Hoang\source\repos\Bai TH 2 Dev huong doi tuong\Bai TH 2 Dev huong doi tuong\obj\Debug\netcoreapp3.1\Bai TH 2 Dev huong doi tuong.genruntimeconfig.cache

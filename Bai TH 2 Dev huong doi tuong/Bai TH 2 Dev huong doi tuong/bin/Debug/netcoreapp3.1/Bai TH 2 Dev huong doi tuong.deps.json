@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bai TH 2 Dev huong doi tuong/1.0.0": {
+        "runtime": {
+          "Bai TH 2 Dev huong doi tuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai TH 2 Dev huong doi tuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
